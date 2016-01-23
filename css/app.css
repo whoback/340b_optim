@@ -43,11 +43,16 @@ li.logo {
     width: 15em;
 }
 
+.logo-container{
+    padding: 1em 0;
+}
+
 .login .button {
     padding: 0.50em 4em;
     border-radius: 3px;
     background: #8DBF58;
-    margin: 1em 10em 0 0;
+    margin: 0 auto;
+    position: relative;
 }
 
 .login .button:hover {
@@ -92,8 +97,19 @@ li.logo {
     background: #27407C;
 }
 
+.footer{
+    padding: 4em 0;
+}
+.footer .large-4{}
+.footer .large-8{
+    height: 198px;
+}
+.footer .large-8 .menu{
+    position: relative;
+    top: 50%;
+}
 p.footer-info {
     font-size: 12px;
-    padding: 0 3em;
+
     line-height: 1;
 }
