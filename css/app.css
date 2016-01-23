@@ -1,0 +1,99 @@
+/*Begin Homepage styles*/
+
+.leader {
+    background: #154588;
+    color: white;
+    padding: 3em 0;
+}
+
+.leader .button {
+    background: #8DBF58;
+    border-radius: 3px;
+    font-size: 1.5em;
+    margin-top: 2em;
+}
+
+.leader .button:hover {
+    background: #7DA94D;
+}
+
+.leader .lead{
+    padding: 0 2em;
+}
+
+.existing a {
+    color: white;
+    text-decoration: underline;
+    font-size: 12px;
+}
+
+.existing a:hover {
+    text-decoration: underline;
+}
+
+
+/*Begin Landing page styles*/
+
+li.logo {
+    width: 15em;
+    list-style: none;
+}
+
+.logo img {
+    width: 15em;
+}
+
+.login .button {
+    padding: 0.50em 4em;
+    border-radius: 3px;
+    background: #8DBF58;
+    margin: 1em 10em 0 0;
+}
+
+.login .button:hover {
+    background: #7DA94D;
+}
+
+.menu {
+    list-style: none;
+}
+
+.menu li a {
+    color: #343434;
+}
+
+.menu li a:hover {
+    color: #343434;
+    text-decoration: underline;
+}
+
+.content {
+    padding: 3em 0;
+}
+
+.content p {
+    color: #232323;
+}
+
+.contact {
+    background: #eeeeee;
+    padding: 3em;
+}
+
+.contact h3 {
+    color: #010101;
+}
+
+.contact p {
+    color: #9C9C9C;
+}
+
+.contact .button {
+    background: #27407C;
+}
+
+p.footer-info {
+    font-size: 12px;
+    padding: 0 3em;
+    line-height: 1;
+}
