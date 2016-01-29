@@ -1,17 +1,19 @@
-.top-bar{
+.top-bar {
     border-bottom: 1px solid #777;
 }
-.login input{
+
+.login input {
     display: inline;
     height: 26px;
     border-radius: 3px;
 }
 
-.login .title{
+.login .title {
     float: right;
     margin-right: 1rem;
     text-transform: uppercase;
 }
+
 .leader {
     background: #154588;
     color: white;
@@ -29,7 +31,7 @@
     background: #7DA94D;
 }
 
-.leader .lead{
+.leader .lead {
     padding: 0 2em;
 }
 
@@ -43,9 +45,6 @@
     text-decoration: underline;
 }
 
-
-
-
 li.logo {
     width: 15em;
     list-style: none;
@@ -55,7 +54,7 @@ li.logo {
     width: 15em;
 }
 
-.logo-container{
+.logo-container {
     padding: 1em 0;
 }
 
@@ -73,7 +72,8 @@ li.logo {
     background: #7DA94D;
 }
 
-.login [type='text'], [type='password'] {
+.login [type='text'],
+[type='password'] {
     font-size: 12px;
     text-transform: uppercase;
     margin-bottom: 0;
@@ -94,6 +94,12 @@ li.logo {
 
 .content {
     padding: 3em 0;
+}
+
+#home .content p {
+    color: white;
+    margin-top: 8px;
+    margin-bottom: 3em;
 }
 
 .content p {
@@ -117,19 +123,22 @@ li.logo {
     background: #27407C;
 }
 
-.footer{
+.footer {
     padding: 4em 0;
 }
-.footer .large-4{}
-.footer .large-8{
+
+.footer .large-4 {}
+
+.footer .large-8 {
     height: 198px;
 }
-.footer .large-8 .menu{
+
+.footer .large-8 .menu {
     position: relative;
     top: 50%;
 }
+
 p.footer-info {
     font-size: 12px;
-
     line-height: 1;
 }
