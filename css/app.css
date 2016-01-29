@@ -13,6 +13,9 @@
     margin-right: 1rem;
     text-transform: uppercase;
 }
+.header{
+    margin-bottom: 2em;
+}
 
 .leader {
     background: #154588;
@@ -36,7 +39,7 @@
 }
 
 .existing a {
-    color: white;
+    color: #232323;
     text-decoration: underline;
     font-size: 12px;
 }
@@ -55,7 +58,7 @@ li.logo {
 }
 
 .logo-container {
-    padding: 1em 0;
+    padding: 2em 0;
 }
 
 .login .button {
@@ -106,6 +109,7 @@ li.logo {
     padding: .5em 1em;
     font-size: 30px;
     border-radius: 10px;
+    margin: 0;
 }
 .content p {
     color: #232323;
