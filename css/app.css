@@ -102,6 +102,11 @@ li.logo {
     margin-bottom: 3em;
 }
 
+#home .signup .button{
+    padding: .5em 1em;
+    font-size: 30px;
+    border-radius: 10px;
+}
 .content p {
     color: #232323;
 }
