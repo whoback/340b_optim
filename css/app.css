@@ -151,3 +151,7 @@ p.footer-info {
     font-size: 12px;
     line-height: 1;
 }
+
+.leadrow{
+    padding: 2em 0 4em;
+}
